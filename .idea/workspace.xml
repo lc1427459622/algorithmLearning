@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="615d8611-7a50-4898-81eb-89e41eeef582" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hundred/MyString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hundred/旋转词.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lc/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lc/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lc/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lc/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lc/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lc/RegIsMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lc/SlectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lc/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lc/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lc/XORTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lc/firstWeek/Ad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lc/firstWeek/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lc/firstWeek/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lc/firstWeek/合并有序数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lc/lb/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lc/network/BioTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/尚硅谷数据结构预算法/笔记" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/尚硅谷数据结构预算法/day01/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmLearning/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmLearning/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/尚硅谷数据结构预算法/笔记" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/尚硅谷数据结构预算法/笔记" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,8 +25,19 @@
         <entry file="file://$PROJECT_DIR$/src/com/尚硅谷数据结构预算法/笔记">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor />
+              <first_editor relative-caret-position="231">
+                <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+              </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/尚硅谷数据结构预算法/day01/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -92,13 +83,14 @@
         <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[3]无重复字符的最长子串.java" />
         <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[4]寻找两个正序数组的中位数.java" />
         <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[10]正则表达式匹配.java" />
+        <option value="$PROJECT_DIR$/src/com/尚硅谷数据结构预算法/笔记" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="915" />
-    <option name="y" value="316" />
-    <option name="width" value="1936" />
+    <option name="x" value="1072" />
+    <option name="y" value="65" />
+    <option name="width" value="845" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -329,12 +321,12 @@
       <workItem from="1599527091568" duration="373000" />
       <workItem from="1599529139356" duration="903000" />
       <workItem from="1599622391160" duration="8837000" />
-      <workItem from="1603180301466" duration="241000" />
+      <workItem from="1603180301466" duration="2310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94183000" />
+    <option name="totallyTimeSpent" value="96252000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -346,10 +338,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="915" y="316" width="1936" height="1056" extended-state="0" />
+    <frame x="1072" y="65" width="845" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18283582" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18283582" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -738,10 +730,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/尚硅谷数据结构预算法/day01/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/尚硅谷数据结构预算法/笔记">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor />
+          <first_editor relative-caret-position="231">
+            <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
